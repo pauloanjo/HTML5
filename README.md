@@ -1,2 +1,5 @@
 # HTML5
- Curso de HTML5
+ Primeiro repositório de Git e Github
+
+Conferindo descrições
+
