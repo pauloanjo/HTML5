@@ -1,5 +1,5 @@
 # HTML5
- Primeiro repositório de Git e Github
+ Primeiro repositório de **Git** e *Github*
 
 Conferindo descrições
 
