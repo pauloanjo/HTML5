@@ -2,5 +2,5 @@
 - [X] Módulo 01 - Concluído.
 - [X] Módulo 02 - Concluído.
 - [X] Módulo 03 - Concluído.
-- [] Módulo 04 - Em andamento.
-- [] Módulo 05 - Aguardando
+- [X] Módulo 04 - Concluído.
+- [] Módulo 05 - Em andamento.
