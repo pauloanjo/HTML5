@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Flexible Flexbox 04</title>
+    <style>
+        div.conteiner {
+            background-color: aquamarine;
+
+            /* Flex conteiner - PAI*/
+            height: 300px;
+            display: flex;
+            flex-flow: row nowrap;
+            justify-content: space-around;
+            align-items: stretch;
+        }
+
+        div.item {
+            background-color: aqua;
+            border: 1px dashed black;
+            text-align: center;
+            /* flex item - FILHO */
+        }
+
+    </style>
+</head>
+<body>
+    <h1>Caixas flexiveis</h1>
+    <div class="conteiner">
+        <div class="item">A</div>
+        <div class="item">B</div>
+        <div class="item">C</div>
+        <div class="item">D</div>
+        <div class="item">E</div>
+        <div class="item">F</div>
+        <div class="item">G</div>        
+    </div>
+</body>
+</html>
